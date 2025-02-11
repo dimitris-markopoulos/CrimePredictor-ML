@@ -1,5 +1,6 @@
 # Crime Rate Prediction from Community Features
 
+NOTE THAT THIS IS A WORK IN PROGRESS.
 
 ## Project Overview
 This project aims to predict the violent crime rate in different communities based on various socioeconomic, demographic, and law enforcement-related features. By leveraging advanced regression techniques and machine learning models, this project seeks to uncover patterns that influence crime rates and develop predictive models to assist policymakers, law enforcement agencies, and researchers in understanding crime trends.
