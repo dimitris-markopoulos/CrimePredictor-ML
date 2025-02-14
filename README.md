@@ -4,7 +4,7 @@
 This project aims to predict the violent crime rate in different communities based on various socioeconomic, demographic, and law enforcement-related features. By leveraging advanced regression techniques and machine learning models, this project seeks to uncover patterns that influence crime rates and develop predictive models to assist policymakers, law enforcement agencies, and researchers in understanding crime trends.
 
 
-## Dataset
+## Dataset (https://archive.ics.uci.edu/dataset/183/communities+and+crime)
 The project utilizes the Communities and Crime dataset, available from the UCI Machine Learning Repository:
 🔗 Communities and Crime Dataset
 
