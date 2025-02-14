@@ -24,9 +24,9 @@ This dataset includes a wide range of features related to community characterist
 
 ⊳ Exploratory Data Analysis (EDA): Understanding correlations between community features and crime rates.
 
-⊳ Regression Models: Applying linear regression, ridge regression, and LASSO to establish baseline predictive performance.
+⊳ Regression Models: Applying linear regression, ridge regression, LASSO, and elastic net to establish baseline predictive performance.
 
-⊳ Machine Learning Implementation: Experimenting with random forests, gradient boosting, and deep learning to improve prediction accuracy.
+⊳ Machine Learning Implementation: Experimenting with random forests, gradient boosting, and deep learning to improve prediction accuracy. (working progress)
 
 ⊳ Model Evaluation: Comparing models based on metrics like R², RMSE, and MAE to determine the best approach.
 
@@ -35,5 +35,3 @@ This dataset includes a wide range of features related to community characterist
 ⊳ Incorporating geospatial analysis to visualize crime distribution.
 
 ⊳ Exploring deep learning architectures for improved predictions.
-
-⊳ Developing an interactive dashboard to visualize crime trends based on community input.
